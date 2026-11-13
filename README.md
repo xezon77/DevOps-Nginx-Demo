@@ -5,6 +5,7 @@ This script helps you install Nginx on linux & then show a demo webpage
 # The script 
 
 sudo apt-get update 
+
 sudo apt install nginx 
 
 sudo systemctl start nginx 
