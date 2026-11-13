@@ -13,3 +13,5 @@ sudo systemctl enable nginx
 # So that when the system restarts nginx will also get restarted 
 
 # The webpage is kept at this '/var/www/nginx' location.
+
+Happy learning...
